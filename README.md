@@ -19,3 +19,7 @@ An intelligence tool that detects relationships between users based on text simi
 
 ```bash
 python main.py
+
+## 📊 Example
+
+![Network Graph](graph.png)
